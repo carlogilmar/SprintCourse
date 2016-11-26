@@ -20,9 +20,12 @@ subprojects {
     jcenter()
   }
   dependencies {
+    compile group: 'ch.qos.logback', name: 'logback-classic', version: '1.1.7'
     compile 'org.codehaus.groovy:groovy-all:2.3.11'
+    //compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.21'
     testCompile group: 'junit', name: 'junit', version: '4.11'
     testCompile 'org.springframework:spring-test:4.2.8.RELEASE'
+    compile group: 'org.spockframework', name: 'spock-spring', version: '1.1-groovy-2.4-rc-3'
   }
 }
 
@@ -38,6 +41,7 @@ project(":persistenceAndServices"){
 project(":business"){
 	dependencies{
 	compile 'org.springframework:spring-aspects:4.2.8.RELEASE'
+	compile 'org.springframework:spring-context:4.2.8.RELEASE'
 }
 }
 
