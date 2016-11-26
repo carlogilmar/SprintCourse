@@ -1,0 +1,91 @@
+12:50:18.366 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - Hola inmundo! 
+12:50:18.371 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+12:54:41.010 [main] [34mINFO [0;39m [36mc.m.b.MyMathImpl[0;39m - com.makingdevs.business.MyMathImpl -Primes to! 
+12:54:41.014 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+13:07:01.410 [main] [34mINFO [0;39m [36mc.m.b.MyMathImpl[0;39m - com.makingdevs.business.MyMathImpl -Primes to! 
+13:07:01.416 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+13:11:37.412 [main] [34mINFO [0;39m [36mc.m.b.MyMathImpl[0;39m - com.makingdevs.business.MyMathImpl -Primes to! 
+13:11:37.619 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+13:12:27.262 [main] [34mINFO [0;39m [36mc.m.b.MyMathImpl[0;39m - com.makingdevs.business.MyMathImpl -Primes to! 
+13:12:27.268 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+13:13:21.547 [main] [34mINFO [0;39m [36mc.m.b.MyMathImpl[0;39m - com.makingdevs.business.MyMathImpl -Primes to! 
+13:13:21.554 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+13:14:44.582 [main] [34mINFO [0;39m [36mc.m.b.MyMathImpl[0;39m - com.makingdevs.business.MyMathImpl -Primes to! 
+13:14:44.589 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+13:19:30.667 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before ***<--------------<<<< 
+13:19:30.673 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before ***<--------------<<<< 
+13:19:30.673 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before ***<--------------<<<< 
+13:19:30.676 [main] [34mINFO [0;39m [36mc.m.b.MyMathImpl[0;39m - com.makingdevs.business.MyMathImpl -Primes to! 
+13:19:30.678 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+13:20:07.895 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before ***<--------------<<<< 
+13:20:07.902 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before ***<--------------<<<< 
+13:20:07.903 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before ***<--------------<<<< 
+13:20:07.906 [main] [34mINFO [0;39m [36mc.m.b.MyMathImpl[0;39m - com.makingdevs.business.MyMathImpl -Primes to! 
+13:20:07.908 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+13:44:30.619 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before  getMetaClass ([])***<--------------<<<< 
+13:44:30.651 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before  getMetaClass ([])***<--------------<<<< 
+13:44:30.651 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before  primesTo ([10])***<--------------<<<< 
+13:44:30.652 [main] [34mINFO [0;39m [36mc.m.b.MyMathImpl[0;39m - com.makingdevs.business.MyMathImpl -Primes to! 
+13:44:30.654 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+13:51:24.589 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before  getMetaClass ([])***<--------------<<<< 
+13:51:24.593 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - >>>>>-------------->-----||-----*** Before  getMetaClass ([])***(*).w.(*) 
+13:51:24.595 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before  getMetaClass ([])***<--------------<<<< 
+13:51:24.595 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - >>>>>-------------->-----||-----*** Before  getMetaClass ([])***(*).w.(*) 
+13:51:24.596 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before  primesTo ([10])***<--------------<<<< 
+13:51:24.597 [main] [34mINFO [0;39m [36mc.m.b.MyMathImpl[0;39m - com.makingdevs.business.MyMathImpl -Primes to! 
+13:51:24.599 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+13:51:24.600 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - >>>>>-------------->-----||-----*** Before  primesTo ([10])***(*).w.(*) 
+13:51:54.903 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before  getMetaClass ([])***<--------------<<<< 
+13:51:54.906 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - >>>>>-------------->-----||-----*** After  getMetaClass ([])***(*).w.(*) 
+13:51:54.908 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before  getMetaClass ([])***<--------------<<<< 
+13:51:54.910 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - >>>>>-------------->-----||-----*** After  getMetaClass ([])***(*).w.(*) 
+13:51:54.911 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - (*).w.(*)-----||-----*** Before  primesTo ([10])***<--------------<<<< 
+13:51:54.912 [main] [34mINFO [0;39m [36mc.m.b.MyMathImpl[0;39m - com.makingdevs.business.MyMathImpl -Primes to! 
+13:51:54.914 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+13:51:54.914 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - >>>>>-------------->-----||-----*** After  primesTo ([10])***(*).w.(*) 
+13:55:52.244 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----| Before  getMetaClass ([])|------- 
+13:55:52.275 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - *************||          After  getMetaClass ([])      ||**************** 
+13:55:52.277 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----| Before  getMetaClass ([])|------- 
+13:55:52.277 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - *************||          After  getMetaClass ([])      ||**************** 
+13:55:52.278 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----| Before  primesTo ([10])|------- 
+13:55:52.279 [main] [34mINFO [0;39m [36mc.m.b.MyMathImpl[0;39m - com.makingdevs.business.MyMathImpl -Primes to! 
+13:55:52.281 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+13:55:52.282 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - *************||          After  primesTo ([10])      ||**************** 
+13:59:36.555 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----| 1.- Before  getMetaClass ([])|------- 
+13:59:36.559 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----|| 2.-  After  getMetaClass ([])      ||---- 
+13:59:36.559 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ---|| 3.- After Returning  getMetaClass ([]) ||---- 
+13:59:36.563 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----| 1.- Before  getMetaClass ([])|------- 
+13:59:36.564 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----|| 2.-  After  getMetaClass ([])      ||---- 
+13:59:36.564 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ---|| 3.- After Returning  getMetaClass ([]) ||---- 
+13:59:36.565 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----| 1.- Before  primesTo ([10])|------- 
+13:59:36.566 [main] [34mINFO [0;39m [36mc.m.b.MyMathImpl[0;39m - com.makingdevs.business.MyMathImpl -Primes to! 
+13:59:36.572 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+13:59:36.573 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----|| 2.-  After  primesTo ([10])      ||---- 
+13:59:36.573 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ---|| 3.- After Returning  primesTo ([10]) ||---- 
+14:03:57.018 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ----|| 4.-         AroundBefore  getMetaClass ([])      ||----- 
+14:03:57.022 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----| 1.- Before  getMetaClass ([])|------- 
+14:03:57.022 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ----|| 5.-         AroundAfter  getMetaClass ([])      ||----- 
+14:03:57.023 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----|| 2.-  After  getMetaClass ([])      ||---- 
+14:03:57.023 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ---|| 3.- After Returning  getMetaClass ([]) ||---- 
+14:03:57.024 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ----|| 4.-         AroundBefore  getMetaClass ([])      ||----- 
+14:03:57.024 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----| 1.- Before  getMetaClass ([])|------- 
+14:03:57.025 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ----|| 5.-         AroundAfter  getMetaClass ([])      ||----- 
+14:03:57.030 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----|| 2.-  After  getMetaClass ([])      ||---- 
+14:03:57.030 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ---|| 3.- After Returning  getMetaClass ([]) ||---- 
+14:05:51.678 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ----|| 4.-         AroundBefore  getMetaClass ([])      ||----- 
+14:05:51.683 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----| 1.- Before  getMetaClass ([])|------- 
+14:05:51.684 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ----|| 5.-         AroundAfter  getMetaClass ([])      ||----- 
+14:05:51.684 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----|| 2.-  After  getMetaClass ([])      ||---- 
+14:05:51.685 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ---|| 3.- After Returning  getMetaClass ([]) ||---- 
+14:05:51.687 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ----|| 4.-         AroundBefore  getMetaClass ([])      ||----- 
+14:05:51.687 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----| 1.- Before  getMetaClass ([])|------- 
+14:05:51.688 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ----|| 5.-         AroundAfter  getMetaClass ([])      ||----- 
+14:05:51.692 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----|| 2.-  After  getMetaClass ([])      ||---- 
+14:05:51.693 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ---|| 3.- After Returning  getMetaClass ([]) ||---- 
+14:05:51.694 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ----|| 4.-         AroundBefore  primesTo ([10])      ||----- 
+14:05:51.694 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----| 1.- Before  primesTo ([10])|------- 
+14:05:51.695 [main] [34mINFO [0;39m [36mc.m.b.MyMathImpl[0;39m - com.makingdevs.business.MyMathImpl -Primes to! 
+14:05:51.697 [main] [39mDEBUG[0;39m [36mc.m.b.MyMathImpl[0;39m - **************************************************************************************************** 
+14:05:51.698 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ----|| 5.-         AroundAfter  primesTo ([10])      ||----- 
+14:05:51.698 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - -----|| 2.-  After  primesTo ([10])      ||---- 
+14:05:51.698 [main] [39mDEBUG[0;39m [36mc.m.a.BeforeAdvice[0;39m - ---|| 3.- After Returning  primesTo ([10]) ||---- 

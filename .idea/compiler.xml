@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="app_main" target="1.8" />
       <module name="app_test" target="1.8" />
+      <module name="business_main" target="1.8" />
+      <module name="business_test" target="1.8" />
       <module name="persistenceAndServices_main" target="1.8" />
       <module name="persistenceAndServices_test" target="1.8" />
       <module name="web_main" target="1.8" />
