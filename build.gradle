@@ -35,6 +35,12 @@ project(":persistenceAndServices"){
   }
 }
 
+project(":business"){
+	dependencies{
+	compile 'org.springframework:spring-aspects:4.2.8.RELEASE'
+}
+}
+
 project(":web"){
   apply plugin:'war'
   apply plugin: 'org.akhikhl.gretty'
