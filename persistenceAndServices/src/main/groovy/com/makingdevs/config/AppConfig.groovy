@@ -21,7 +21,7 @@ import javax.sql.DataSource
  */
 @Configuration
 @EnableJpaRepositories("com.makingdevs.repositories")
-@CompileStatic
+
 class AppConfig {
 
   @Bean
@@ -30,8 +30,8 @@ class AppConfig {
     new DriverManagerDataSource(
         url: "jdbc:mysql://localhost/employees",
         driverClassName: "com.mysql.jdbc.Driver",
-        username: "makingdevs",
-        password: "makingdevs")
+        username: "root",
+        password: "carlosins")
   }
 
   @Bean

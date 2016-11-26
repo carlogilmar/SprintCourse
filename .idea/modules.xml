@@ -5,6 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app_main.iml" filepath="$PROJECT_DIR$/.idea/modules/app_main.iml" group="app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app_test.iml" filepath="$PROJECT_DIR$/.idea/modules/app_test.iml" group="app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/persistenceAndServices/persistenceAndServices.iml" filepath="$PROJECT_DIR$/.idea/modules/persistenceAndServices/persistenceAndServices.iml" group="persistenceAndServices" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/persistenceAndServices/persistenceAndServices_main.iml" filepath="$PROJECT_DIR$/.idea/modules/persistenceAndServices/persistenceAndServices_main.iml" group="persistenceAndServices" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/persistenceAndServices/persistenceAndServices_test.iml" filepath="$PROJECT_DIR$/.idea/modules/persistenceAndServices/persistenceAndServices_test.iml" group="persistenceAndServices" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web_main.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web_test.iml" group="web" />
     </modules>
   </component>
 </project>
