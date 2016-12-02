@@ -18,11 +18,11 @@ import org.springframework.stereotype.Component
 @Slf4j
 class BeforeAdvice {
 
-    @Before("execution(* com.makingdevs.business..*(..))")
+    @Before("com.makingdevs.aspects.AppPointcuts.pointcutBusinessApp()")
     void before(JoinPoint jp){
         log.debug "-----| 1.- Before  ${jp.signature.name} (${jp.args})|-------"
     }
-
+/*
     @After("execution(* com.makingdevs.business..*(..))")
     void after(JoinPoint jp){
         log.debug "-----|| 2.-  After  ${jp.signature.name} (${jp.args})      ||----"
@@ -40,5 +40,5 @@ class BeforeAdvice {
         log.debug "----|| 5.-         AroundAfter  ${pjp.signature.name} (${pjp.args})      ||-----"
         val
     }
-
+*/
 }

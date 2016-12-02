@@ -12,7 +12,6 @@ class MyMathImpl implements com.makingdevs.business.MyMath {
     @Override
     List<Integer> primesTo(int i) {
         log.info "${MyMathImpl.class.name} -Primes to!"
-        log.debug "*"*100
         [2,3,5,7]
     }
 }
